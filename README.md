@@ -11,7 +11,7 @@ The project follows a complete data analytics workflow including **data cleaning
 ## Dashboard Overview
 
 <p align="center">
-   <img src="images/P1.png" width="900">
+   <img src="images/img1.png" width="900">
 </p>
 
 The dashboard provides a high-level overview of:
@@ -26,7 +26,7 @@ The dashboard provides a high-level overview of:
 ## Interactive Filtering System
 
 <p align="center">
-   <img src="images/P2.png" width="900">
+   <img src="images/img2.png" width="900">
 </p>
 
 Users can dynamically filter violations by:
@@ -45,7 +45,7 @@ This allows focused analysis of specific subsets of the traffic violation data.
 ## Time-Based Analysis
 
 <p align="center">
-   <img src="images/P3.png" width="900">
+   <img src="images/img3.png" width="900">
 </p>
 
 The dashboard visualizes violation trends across:
