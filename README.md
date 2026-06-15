@@ -3,7 +3,7 @@
 A data analytics and visualization project built using **Python, MySQL, Streamlit, and Plotly** to analyze over **1 million traffic violation records** and uncover patterns related to violations, locations, demographics, vehicles, and accident-related incidents.
 
 The project follows a complete data analytics workflow including **data cleaning, feature engineering, SQL analysis, exploratory data analysis (EDA), and dashboard development**.
-
+Cleaned Dataset Link: [Traffic Violations Dataset](https://huggingface.co/datasets/ANGSAK/TrafficViolationdataset) 
 ---
 
 # 📊 Dashboard Preview
